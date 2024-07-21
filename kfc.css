@@ -1,0 +1,163 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.bgc{
+    background-color: black;
+}
+.navbar{
+    background-color: black !important;
+}
+.pk ul{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    list-style-type: none;
+}
+.pk ul li{
+    display: inline;
+    justify-content: space-around;
+    margin: 4px 6px;
+}
+.pk a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.im{
+    position: relative;
+    bottom: 2px;
+    left: 1px;
+   
+}
+.Delivery {
+    border: 2px solid red;
+    padding: 8px;
+    border-radius: 5px;
+}
+.Delivery1{
+    border: 0%;
+    padding: 8px;
+    background-color: rgb(51, 51, 51);
+    margin-left: 3px;
+    border-radius: 6px;
+}
+.btn{
+    background-color: red !important;
+    color: white !important;
+    padding-right: 10px;
+}
+.bckt{
+    position: relative;
+    right: 5px;
+
+}
+.sld{
+    margin-top: 80px;
+}
+.btn1{
+    background-color: red !important;
+    color: white !important;
+    width: 350px;
+    border-radius: 5px;
+    position: relative;
+    left: 430px;
+    padding-bottom: 5px;
+    top: 25px;
+}
+.hdng{
+    background-color: black !important;
+    color: white;
+    margin-left: 20px;
+    width: 300px;
+    border-bottom: 2px solid red;
+}
+.circle{
+    display: flex;
+}
+.c{
+    width: 250px;
+
+}
+.ctext{
+    color: white !important;
+}
+.img{
+    cursor: pointer;
+}
+.cs{
+    display: flex;
+}
+.card{
+    margin: 2px 6px;
+    background-color: rgb(28, 32, 32)  !important;
+}
+.price{
+    background-color: red !important;
+    width: 100px;
+    color: white !important;
+}
+.name{
+    color: white !important;
+}
+.div{
+    width: 50%;
+}
+.div-section1{
+    display: flex;
+}
+.div{
+    margin: 20px;
+}
+.dv{
+    border-radius: 10px;
+}.txt{
+    color: white !important;
+}
+.card-title{
+ color: white !important;
+}
+.card-text{
+    color: white !important;
+}
+.card-price{
+    color: white !important;
+}
+.c:hover{
+    transform: scaleY(1.1);
+    transition: 0.4s;
+}
+.c{
+    background-color: rgb(83, 82, 82);
+    border-radius:80px 80px 0px 80px;
+    margin: 10px;
+}
+.card:hover{
+    transform: scale(1.07);
+    transition: 0.5s;
+    border: 2px solid red;
+}
+.cntnr{
+    background-color: rgb(44, 45, 45) !important;
+    height: 400px !important;
+}
+.logoh{
+    display: flex;
+    margin-left: 462px;
+    position: relative;
+    top: 40px;
+    
+}
+.icons ul{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    list-style-type: none;
+}
+.icons ul li{
+    display: inline;
+    justify-content: space-around;
+    margin: 4px 4px;
+}
+.icns{
+    width: 20px;
+}
